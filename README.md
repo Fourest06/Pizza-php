@@ -1,11 +1,5 @@
 Pizza is a web application developed with PHP and SQL, following a tutorial by Net Ninja. This app allows users to create and view pizzas with ease.
 
-Features:
-
-Pizza Creation: Users can customize and create their own pizzas.
-
-Pizza Viewing: View a list of all created pizzas.
-
 Customizations:
 
 Responsive Navbar: The navbar was modified to be responsive, ensuring a better user experience on various screen sizes.
