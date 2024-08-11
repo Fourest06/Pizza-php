@@ -8,4 +8,4 @@ Responsive Layout: Pizzas are displayed uniformly in height, arranged in 3 colum
 
 Note: These changes were made by me and are not included in the original tutorial.
 
-Tutorial: This project is based on the Net Ninja tutorial. You can view the tutorial here (https://www.youtube.com/watch?v=pWG7ajC_OVo&list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o) for more details on the development process.
+Tutorial: This project is based on the Net Ninja tutorial. You can view the tutorial [here](https://www.youtube.com/watch?v=pWG7ajC_OVo&list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o) for more details on the development process.
